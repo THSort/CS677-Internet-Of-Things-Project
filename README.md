@@ -3,8 +3,8 @@
 # 2. 200_baseline.csv: This file is the data that was recorded from the accelerometer when the phone was still and no one was speaking.
 # 3. 200_GoogleAssistant.csv: This file is the data that was recorded from the accelerometer when the phone was still and Google Assistant was speaking. 
 # 4. Experiment1.csv: This file is the data that was recorded in the following manner:
-#    a. The phone was placed on a table
-#    b. The phone was still
+#    * a. The phone was placed on a table
+#    * b. The phone was still
 #    c. I pressed "Start" on the app
 #    d. I tapped the microphone icon on Google Assitant to start talking into it, and asked it "How is the weather today?" (M)
 #    e. Google Assistant started speaking
