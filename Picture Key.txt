@@ -1,0 +1,4 @@
+M = This is the point where I pressed the microphone icon on Google Assistant to start speaking into it 
+V.S = This is the point where Google Assistant started speaking back to me, I tapped the screen to generate this peak and differentiate
+T = This is me rabdomly tapping the screen to generate a peak when Google Assistant stopped speaking, to be able to determine this point later
+E = This is the final tap I made on the app to press the 'Stop' button
